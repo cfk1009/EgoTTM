@@ -9,7 +9,6 @@
 ---
 ## 📢 News
 * **[2026/06]** Paper has been accepted by Interspeech 2026! We are currently refactoring the source code. Stay tuned!
-* 
 ---
 
 ## 🗺️ Method Overview
