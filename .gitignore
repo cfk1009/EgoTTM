@@ -216,3 +216,16 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Large model artifacts and prepared face crops are stored on Google Drive.
+/external/face_crops/
+/final/weights/
+/assets/weights/
+/tests/
+/artifacts/
+*.pt
+*.pth
+*.ckpt
+*.safetensors
+*.onnx
+*.bin

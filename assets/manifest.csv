@@ -1,0 +1,7 @@
+name,kind,path,description
+ttm_full,checkpoint,final/weights/ttm.pth,Full TTM checkpoint
+roberta_ft,checkpoint,final/weights/roberta.pth,Separately fine-tuned RoBERTa checkpoint
+lam,checkpoint,final/weights/lam.pth,Frozen LAM checkpoint
+val_transcript,input,final/transcripts/val.csv,Prepared validation transcription CSV
+val_diarization,input,final/diarization/val.csv,Prepared validation diarization CSV
+face_crops,input,external/face_crops,Validation face crops indexed by uid and segment_id
