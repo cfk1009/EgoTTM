@@ -4,7 +4,7 @@
 > [Fukun Chen](https://github.com/cfk1009), [Xionghu Zhong](xzhong@hnu.edu.cn), [Minjie Cai](https://cai-mj.github.io/) <br>
 > Hunan University <br>
 > Interspeech 2026 <br>
-> [Paper Link](https://www.isca-archive.org/)
+> [Paper Link](https://www.isca-archive.org/interspeech_2026/chen26x_interspeech.html)
 
 ---
 ## 📢 News
